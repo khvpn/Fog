@@ -83,12 +83,12 @@ For Debian Distro:
 
 ```sh
 sudo su
-wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
+wget https://raw.githubusercontent.com/khvpn/fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
 ```
 For Ubuntu Distro:
 ```sh
 sudo su
-wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./fog-ubuntu && ./fog-ubuntu
+wget https://raw.githubusercontent.com/khvpn/fog/raw/main/fog-ubuntu && chmod +x ./fog-ubuntu && ./fog-ubuntu
 ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
